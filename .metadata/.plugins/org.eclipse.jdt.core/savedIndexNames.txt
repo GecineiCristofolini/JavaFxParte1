@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Gecinei\Curso Java\JavaFx\ws-fx\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+449552968.index
+4219279280.index
